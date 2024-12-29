@@ -37,4 +37,4 @@ SCA focuses on identifying and managing open-source components and third-party l
 
 **Outcome**
 
-In this project SCA was used to scan a Docker image of Wordpress with the result being no vulnerabilities found. 
+- In this project SCA was used to scan a Docker image of Wordpress with the result being no vulnerabilities found. 
